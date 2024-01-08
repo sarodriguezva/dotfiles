@@ -11,7 +11,6 @@ setup)
 
 	check_path_link "$HOME/.config/nvim/init.lua" "$HOME/.dotfiles/nvim/init.lua"
 	check_path_link "$HOME/.config/nvim/lua" "$HOME/.dotfiles/nvim/lua"
-	check_path_link "$HOME/.config/nvim/after" "$HOME/.dotfiles/nvim/after"
 
 	success "Setup correctly"
 	;;

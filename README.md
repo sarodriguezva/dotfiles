@@ -20,7 +20,7 @@ sudo pacman -S base-devel git openssh wget
 Clone the repo
 
 ```sh
-git clone https://github.com/SGman98/dotfiles.git $HOME/.dotfiles
+git clone https://github.com/sarodriguezva/dotfiles.git $HOME/.dotfiles
 ```
 
 Then run then bootstrap.sh script
